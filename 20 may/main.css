@@ -1,0 +1,10 @@
+.tag-wrapper {
+    border: 1px solid;
+    height: 100px;
+    margin: 50px;
+}
+
+.style {
+    background-color: rgba(107, 36, 36, 0.555);
+    border-radius: 3px;
+}
